@@ -41,6 +41,7 @@
 </head>
 <body>
 
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for freaks..Type in a fr↑">
 <h2>My Customers</h2>
 
 <table id="myTable" cellspacing="0" cellpadding="3">
@@ -124,6 +125,6 @@ function myFunction() {
 </script>
 
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for freaks.." title="Type in a fr↑">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for freaks..Type in a fr↑">
 </body>
 </html>
