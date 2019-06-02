@@ -48,51 +48,81 @@
 <tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Network</td>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Weight</td>
-<td  valign="bottom"  align="left"  style=" font-size:10pt;">Named</td>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Pki</td>
+<td  style=""></td>
 </tr>
 <tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Bitcoin</td>
 <td  valign="bottom"  align="right"  style=" font-size:10pt;">0E+00</td>
-<td  valign="bottom"  align="left"  style=" font-size:10pt;">null</td>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">1N</td>
+<td  style=""></td>
 </tr>
 <tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Bitcoin BTC</td>
 <td  valign="bottom"  align="right"  style=" font-size:10pt;">5E&#8722;09</td>
-<td  valign="bottom"  align="left"  style=" font-size:10pt;">nix</td>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">1N1X8i5VuRS1BeMxiy5ZaeensjhsVWdQeC</td>
+<td  style=""></td>
 </tr>
 <tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Dogecoin DOGE</td>
 <td  valign="bottom"  align="right"  style=" font-size:10pt;">130E&#8722;09</td>
-<td  valign="bottom"  align="left"  style=" font-size:10pt;">nixx</td>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">DFTEuCkJwX3Djh1EMT4XNK6a6NixxrMfhx</td>
+<td  style=""></td>
 </tr>
 <tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Ethereum ETH</td>
 <td  valign="bottom"  align="right"  style=" font-size:10pt;">90E&#8722;09</td>
-<td  valign="bottom"  align="left"  style=" font-size:10pt;">gg77</td>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">0xd0f79b71a8ffb7f70392630f8bfc900fca27af42</td>
+<td  style=""></td>
 </tr>
 <tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Litecoin LTC</td>
 <td  valign="bottom"  align="right"  style=" font-size:10pt;">238E&#8722;12</td>
-<td  valign="bottom"  align="left"  style=" font-size:10pt;">&#321;uvi</td>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Luuv1snsyecfcrcmlxgxdrclfglwa4praf</td>
+<td  style=""></td>
 </tr>
 <tr>
-<td  valign="bottom"  align="left"  style=" font-size:10pt;">everythingOS EOS</td>
+<td  valign="bottom"  align="left"  style=" font-size:10pt;">everything OS EOS</td>
 <td  valign="bottom"  align="right"  style=" font-size:10pt;">19E&#8722;09</td>
-<td  valign="bottom"  align="left"  style=" font-size:10pt;">3r3333333333</td>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">EOS7eXFPV31bXFUSLisR9A9cv5tp9aVdPKWH1NWjWy3vCukKn3E3G</td>
+<td  style=""></td>
 </tr>
 <tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Tronix TRX</td>
 <td  valign="bottom"  align="right"  style=" font-size:10pt;">238E&#8722;09</td>
-<td  valign="bottom"  align="left"  style=" font-size:10pt;">DMK</td>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">TVAqvjtirALp4NjUxsygx3Cf5oUwDMKmSf</td>
-</tr>  
+<td  style=""></td>
+</tr>
+<tr>
+<td  valign="bottom"  align="left"  style=" font-size:10pt;">Stellar Lumens XLM</td>
+<td  valign="bottom"  align="right"  style=" font-size:10pt;">3E&#8722;09</td>
+<td colspan="2"  valign="bottom"  align="left"  style=" font-size:10pt;">GC6OHSRJ6SL6GP6F4LPF253AAODCGCYHILPICJ47E634GQOYY3FSOENR</td>
+</tr>
+<tr>
+<td  style=""></td>
+<td  style=""></td>
+<td  style=""></td>
+<td  style=""></td>
+</tr>
+<tr>
+<td  style=""></td>
+<td  style=""></td>
+<td  style=""></td>
+<td  style=""></td>
+</tr>
+<tr>
+<td  style=""></td>
+<td  style=""></td>
+<td  style=""></td>
+<td  style=""></td>
+</tr>
+<tr>
+<td  style=""></td>
+<td  valign="bottom"  align="left"  style=" font-size:10pt;">`</td>
+<td  style=""></td>
+<td  style=""></td>
+</tr>
+</table>
 </table>
   
   
