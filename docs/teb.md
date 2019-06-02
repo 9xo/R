@@ -93,56 +93,6 @@
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">DMK</td>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">TVAqvjtirALp4NjUxsygx3Cf5oUwDMKmSf</td>
 </tr>  
-  <tr>
-    <td>Bitcoin</td>
-    <td>4.761904761904762e-11</td>
-    <td>1N1X8i5VuRS1BeMxiy5ZaeensjhsVWdQeC</td>
-  </tr>
-  <tr>
-    <td>Dogecoin</td>
-    <td>4.761904761904762e-11</td>
-    <td>1N1X8i5VuRS1BeMxiy5ZaeensjhsVWdQeC</td>
-  </tr>
-  <tr>
-    <td>Litecoin</td>
-    <td>4.761904761904762e-11</td>
-    <td>Luuv1snsyecfcrcmlxgxdrclfglwa4praf</td>
-  </tr>
-  <tr>
-    <td>Litecoin</td>
-    <td>0.0</td>
-    <td>Luuv1snsyecfcrcmlxgxdrclfglwa4praf</td>
-  </tr>
-  <tr>
-    <td>Bitcoin</td>
-    <td>4.761904761904762e-11</td>
-    <td>1N1X8i5VuRS1BeMxiy5ZaeensjhsVWdQeC</td>
-  </tr>
-  <tr>
-    <td>Berglunds snabbkop</td>
-    <td>Sweden</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Koniglich Essen</td>
-    <td>Germany</td>
-    <td>Laughing Bacchus Winecellars</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Italy</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Ethereum</td>
-    <td>8.333333333333334e-10</td>
-    <td>0xd0f79b71a8ffb7f70392630f8bfc900fca27af42</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>8.333333333333334e-10</td>
-    <td>0xd0f79b71a8ffb7f70392630f8bfc900fca27af42</td>
-  </tr>
 </table>
   
   
