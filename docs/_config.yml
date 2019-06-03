@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-leapday
 
 title: Blockchain Public Keyring Identifiers (PKIs), i t s  N 1 X.
 email: top@2by.me
@@ -14,4 +14,5 @@ github_username:  itsN1X
 
 github:
   is_project_page: false
-  show_downloads: false
+  
+show_downloads: false
