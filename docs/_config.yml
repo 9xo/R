@@ -1,6 +1,6 @@
 theme: jekyll-theme-tactile
 
-title: Blockchain Public Keyring Identifiers (PKIs) : i t s  N 1 X
+title: Blockchain Public Keyring Identifiers (PKIs), i t s  N 1 X.
 email: top@2by.me
 description: >- # this means to ignore :"
   Write. You must be able to form a legally binding contract online either on behalf of a company or as an individual. Accordingly, you represent that, if you are agreeing to these Terms on behalf of a company or other legal entity, you have the legal authority to bind the company or other legal entity to these Terms and you are at least 18 years old (or the age of majority where you reside, whichever is older), can form a legally binding contract online, and have the full, right, power and authority to enter into and to comply with the obligations under these Terms.
@@ -13,4 +13,5 @@ twitter_username: itsN1X
 github_username:  itsN1X
 
 github:
-  is_project_page: disable
+  is_project_page: false
+  show_downloads: false
