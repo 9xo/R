@@ -39,12 +39,12 @@
 </style>
 </head>
 <body>
-
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for freaks..Type in a fr↑">
 <h2>xENNiE$ Blockchain Networks</h2>
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for freaks..Type in a fr↑">
+
 
 <table id="myTable" cellspacing="0" cellpadding="3">
-<caption>mast</caption>
+<caption>master@9xO</caption>
 <tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Network</td>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Weight</td>
@@ -126,8 +126,12 @@ function myFunction() {
   }
 }
 </script>
-
-
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for freaks..Type in a fr↑">
+
+
+<hr>
+<h3>Made with 💥 by ×3.</h3>
+<h1>Who?<a href="https://gab.ai/a11>?</a>?</h1>
+master x, zzpraf1n1x42af
 </body>
 </html>
