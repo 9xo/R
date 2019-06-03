@@ -14,5 +14,4 @@ github_username:  itsN1X
 
 github:
   is_project_page: false
-  
-show_downloads: false
+  show_downloads: false
