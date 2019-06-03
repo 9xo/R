@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -42,7 +41,7 @@
 <body>
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for freaks..Type in a fr↑">
-<h2>My Customers</h2>
+<h2>xENNiE$ Blockchain Networks</h2>
 
 <table id="myTable" cellspacing="0" cellpadding="3">
 <caption>mast</caption>
@@ -91,18 +90,22 @@
 <tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Tronix TRX</td>
 <td  valign="bottom"  align="right"  style=" font-size:10pt;">238E&#8722;09</td>
-<td  valign="bottom"  align="left"  style=" font-size:10pt;">TVAqvjtirALp4NjUxsygx3Cf5oUwDMKmSf</td>
+<td  valign="bottom"  align="left"  style=" font-size:10pt;">TVAqvjtirALp4NjUxsygx3Cf5oUwDMKmSf TVAqvjtirALp4NjUxsygx3Cf5oUwDMKmSf</td>
 <td  style=""></td>
 </tr>
 <tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Stellar Lumens XLM</td>
 <td  valign="bottom"  align="right"  style=" font-size:10pt;">3E&#8722;09</td>
-<td colspan="2"  valign="bottom"  align="left"  style=" font-size:10pt;">GC6OHSRJ6SL6GP6F4LPF253AAODCGCYHILPICJ47E634GQOYY3FSOENR</td>
+<td colspan="2"  valign="bottom"  align="left"  style=" font-size:10pt;">GC6OHSRJ6SL6GP6F4LPF253AAODCGCYHILPICJ47E634GQOYY3FSOENR GDZ4XW3W3YUT3HQT4HC35QNJAVRFXSO666UYPJMXZFIHB5UY6YXQCOVN</td>
+</tr><tr>
+<td  valign="bottom"  align="left"  style=" font-size:10pt;">Ripple XRP</td>
+<td  valign="bottom"  align="right"  style=" font-size:10pt;">3E&#8722;09</td>
+<td colspan="2"  valign="bottom"  align="left"  style=" font-size:10pt;">rsZM5t2e9RiK8iq7BeFxSkUUvaupnAubLe rhPVa7YdW8Tfhr2SNH9Rx6SDfV998TGUYd</td>
 </tr>
 </table>
+
+Thank you, if you contributed, too.🖤
   
-  
-<!-->some freak..js </!-->
 <script>
 function myFunction() {
   var input, filter, table, tr, td, i, txtValue;
