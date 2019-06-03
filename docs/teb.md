@@ -72,13 +72,13 @@
 <tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Ethereum ETH</td>
 <td  valign="bottom"  align="right"  style=" font-size:10pt;">90E&#8722;09</td>
-<td  valign="bottom"  align="left"  style=" font-size:10pt;">0xd0f79b71a8ffb7f70392630f8bfc900fca27af42</td>
+<td  valign="bottom"  align="left"  style=" font-size:10pt;">0xD0f79B71A8ffB7f70392630f8BFc900fcA27af42</td>
 <td  style=""></td>
 </tr>
 <tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Litecoin LTC</td>
 <td  valign="bottom"  align="right"  style=" font-size:10pt;">238E&#8722;12</td>
-<td  valign="bottom"  align="left"  style=" font-size:10pt;">Luuv1snsyecfcrcmlxgxdrclfglwa4praf</td>
+<td  valign="bottom"  align="left"  style=" font-size:10pt;">LUUv1SnsYECfCRCMLXgxDrcLFgLwA4PRaf</td>
 <td  style=""></td>
 </tr>
 <tr>
