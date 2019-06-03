@@ -131,7 +131,7 @@ function myFunction() {
 
 <hr>
 <h3>Made with 💥 by ×3.</h3>
-<h1>Who?<a href="https://gab.ai/a11>?</a>?</h1>
+<h1>Who?<a href="https://gab.ai/a11>"?</a>?</h1>
 master x, zzpraf1n1x42af
 </body>
 </html>
