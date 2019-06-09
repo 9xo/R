@@ -131,7 +131,9 @@ function myFunction() {
 
 <hr>
 <h3>Made with 🚬💥 by ×3.</h3>
-<h1>Who?<a href "https://itsN1X.github.io/" target="_blank" >?</a>?</h1>
+<h1>
+  Who?<a href "https://itsN1X.github.io/" target="_blank" >?</a>?
+</h1>
 master x, zzpraf1n1x42af
 <br><hr>
 View current hot (algorithms’ opinion) only at <a href="https://9xo.github.io/hgd" target="_blank" ><strong>hgd</strong></a>.
