@@ -132,7 +132,7 @@ function myFunction() {
 <hr>
 <h3>Made with 🚬💥 by ×3.</h3>
 <h1>
-  Who?<a href "https://itsN1X.github.io/" target="_blank" >?</a>?
+  Who?<a href="https://itsN1X.github.io/" target="_blank" >?</a>?
 </h1>
 master x, zzpraf1n1x42af
 <br><hr>
