@@ -99,7 +99,7 @@
 <td colspan="2"  valign="bottom"  align="left"  style=" font-size:10pt;">GC6OHSRJ6SL6GP6F4LPF253AAODCGCYHILPICJ47E634GQOYY3FSOENR GDZ4XW3W3YUT3HQT4HC35QNJAVRFXSO666UYPJMXZFIHB5UY6YXQCOVN</td>
 </tr>
 <tr><td  valign="bottom"  align="left"  style=" font-size:10pt;">bSV Bitcoin Satoshi's Vision $BSV</td>
-<td  valign="bottom"  align="right"  style=" font-size:10pt;">3E&#8722;09</td>
+<td  valign="bottom"  align="right"  style=" font-size:10pt;">721E&#8722;15</td>
 <td colspan="2"  valign="bottom"  align="left"  style=" font-size:10pt;">12BYmeGuyteP4z7m4MUVZzpb1K6peP1Yx3</td>
 </tr><tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Ripple XRP</td>
