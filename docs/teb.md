@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=0.75">
+<meta name="viewport" content="width=device-width, initial-scale=0.25">
 <style>
 * {
   box-sizing: border-box;
