@@ -2,41 +2,8 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=0.25">
 <style>
-* {
-  box-sizing: border-box;
-}
-
-#myInput {
-  background-image: url(https://avatars1.githubusercontent.com/u/13474314?s=24&v=4);
-  background-position: 10px 10px;
-  background-repeat: no-repeat;
-  width: 100%;
-  font-size: 16px;
-  padding: 12px 20px 12px 40px;
-  border: 1px solid #ddd;
-  margin-bottom: 12px;
-}
-
-#myTable {
-  border-collapse: collapse;
-  width: 100%;
-  border: 1px solid #ddd;
-  font-size: 18px;
-}
-
-#myTable th, #myTable td {
-  text-align: left;
-  padding: 12px;
-}
-
-#myTable tr {
-  border-bottom: 1px solid #ddd;
-}
-
-#myTable tr.header, #myTable tr:hover {
-  background-color: #f1f1f1;
-}
 </style>
+<link rel="stylesheet" type="text/css" href="assets/css/style.scss">
 </head>
 <body>
 <h2>xENNiE$ Blockchain Networks</h2>
@@ -54,7 +21,7 @@
 <tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Bitcoin</td>
 <td  valign="bottom"  align="right"  style=" font-size:10pt;">0E+00</td>
-<td  valign="bottom"  align="left"  style=" font-size:10pt;">1N</td>
+<td  valign="bottom"  align="left"  style=" font-size:10pt;">12BYmeGuyteP4z7m4MUVZzpb1K6peP1Yx3 1TsNiXCQkPKaB6zfDQQXAwMBfe12ySoKa</td>
 <td  style=""></td>
 </tr>
 <tr>
