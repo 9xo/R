@@ -21,7 +21,7 @@
 <tr>
 <td  valign="bottom"  align="left"  style=" font-size:10pt;">Bitcoin</td>
 <td  valign="bottom"  align="right"  style=" font-size:10pt;">0E+00</td>
-<td  valign="bottom"  align="left"  style=" font-size:10pt;">12BYmeGuyteP4z7m4MUVZzpb1K6peP1Yx3 1TsNiXCQkPKaB6zfDQQXAwMBfe12ySoKa</td>
+<td  valign="bottom"  align="left"  style=" font-size:10pt;"> 1TsNiXCQkPKaB6zfDQQXAwMBfe12ySoKa</td>
 <td  style=""></td>
 </tr>
 <tr>
