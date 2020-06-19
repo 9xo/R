@@ -44,8 +44,14 @@ header {
 
 #XeKeys tr {
   border-bottom: 1px solid #ddd;
+  font-size: 12px;
 }
 
-#XeKeys tr.header, #XeKeys tr:hover {
+#XeKeys tr:hover {
   background-color: #487619;
+}
+
+#XeKeys tr.header {
+  background-color: #422121;
+  font-size: 18px;
 }
