@@ -23,22 +23,29 @@ header {
   margin-bottom: 12px;
 }
 
-#myTable {
+#XeKeys {
   border-collapse: collapse;
   width: 100%;
   border: 1px solid #ddd;
   font-size: 18px;
 }
 
-#myTable th, #myTable td {
-  text-align: left;
+#XeKeys th{
+  text-align: center;
   padding: 12px;
+  font-size: 18px;
 }
 
-#myTable tr {
+#XeKeys td {
+  text-align: left;
+  padding: 12px;
+  font-size: 12px;
+}
+
+#XeKeys tr {
   border-bottom: 1px solid #ddd;
 }
 
-#myTable tr.header, #myTable tr:hover {
+#XeKeys tr.header, #XeKeys tr:hover {
   background-color: #487619;
 }
