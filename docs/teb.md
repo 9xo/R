@@ -9,9 +9,9 @@
 <input type="text" id="myInput" onkeyup="sortsortsort()" placeholder="Search for assets.. ↑">
 <table id="XeKeys" cellspacing="0" cellpadding="3">
 	<caption>master@9xO</caption>
-	<tr>
-		<td>Network</td>
-		<td>Pki</td>
+	<tr class="header">
+		<th>Network</td>
+		<th>Public Key Identifiers</td>
 	</tr>
 	<tr>
 		<td>Bitcoin</td>
