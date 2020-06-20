@@ -10,8 +10,8 @@
 <table id="XeKeys" cellspacing="0" cellpadding="3">
 	<caption>master@9xO</caption>
 	<tr class="header">
-		<th>Network</td>
-		<th>Public Key Identifiers</td>
+		<th>Network</th>
+		<th>Public Key Identifiers</th>
 	</tr>
 	<tr>
 		<td>Bitcoin</td>
