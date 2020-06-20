@@ -4,54 +4,58 @@
 @import "{{ site.theme }}";
 
 header {
-  display: none;
+ display:none
 }
-
-
 * {
-  box-sizing: border-box;
+ box-sizing:border-box
 }
-
 #myInput {
-  background-image: url(https://avatars1.githubusercontent.com/u/13474314?s=24&v=4);
-  background-position: 10px 10px;
-  background-repeat: no-repeat;
-  width: 100%;
-  font-size: 16px;
-  padding: 12px 20px 12px 40px;
-  border: 1px solid #ddd;
-  margin-bottom: 12px;
+ background-image:url(https://avatars1.githubusercontent.com/u/13474314?s=24&v=4);
+ background-position:10px 10px;
+ background-repeat:no-repeat;
+ width:100%;
+ font-size:16px;
+ padding:12px 20px 12px 40px;
+ border:1px solid #ddd;
+ margin-bottom:12px
 }
-
 #XeKeys {
-  border-collapse: collapse;
-  width: 100%;
-  border: 1px solid #ddd;
-  font-size: 18px;
+ border-collapse:collapse;
+ width:100%;
+ border:1px solid #ddd;
+ font-size:18px
 }
-
-#XeKeys th{
-  text-align: center;
-  padding: 12px;
-  font-size: 18px;
+#XeKeys th {
+ text-align:center;
+ padding:12px;
+ font-size:18px
 }
-
 #XeKeys td {
-  text-align: left;
-  padding: 12px;
-  font-size: 12px;
+ text-align:center;
+ padding:12px;
+ font-size:12px
 }
-
 #XeKeys tr {
-  border-bottom: 1px solid #ddd;
-  font-size: 12px;
+ border-bottom:1px solid #ddd;
+ font-size:12px
 }
-
 #XeKeys tr:hover {
-  background-color: #487619;
+ background-color:#070;
 }
-
+#XeKeys tr {
+ background-color:#020;
+ font-size:18px
+}
 #XeKeys tr.header {
-  background-color: #422121;
-  font-size: 18px;
+ background-color:#422121;
+ font-size:18px
+}
+#XeKeys tr.header:hover {
+  background-color: #BB3333;
+}
+::selection {
+  background: purple;
+}
+::-moz-selection {
+  background: purple;
 }
