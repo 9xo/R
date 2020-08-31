@@ -15,11 +15,15 @@
 	</tr>
 	<tr>
 		<td>Bitcoin</td>
+		<td>1N1X8i5VuRS1BeMxiy5ZaeensjhsVWdQeC</td>
+	</tr>
+	<tr>
+		<td>Bitcoin Cash BCH</td>
 		<td>1TsNiXCQkPKaB6zfDQQXAwMBfe12ySoKa</td>
 	</tr>
 	<tr>
-		<td>Bitcoin BTC</td>
-		<td>1N1X8i5VuRS1BeMxiy5ZaeensjhsVWdQeC</td>
+		<td>Bitcoin Satoshi's Vision BSV</td>
+		<td>12BYmeGuyteP4z7m4MUVZzpb1K6peP1Yx3</td>
 	</tr>
 	<tr>
 		<td>Dogecoin DOGE</td>
@@ -46,12 +50,20 @@
 		<td>GC6OHSRJ6SL6GP6F4LPF253AAODCGCYHILPICJ47E634GQOYY3FSOENR<br>GDZ4XW3W3YUT3HQT4HC35QNJAVRFXSO666UYPJMXZFIHB5UY6YXQCOVN</td>
 	</tr>
 	<tr>
-		<td>Bitcoin Satoshi's Vision BSV</td>
-		<td>12BYmeGuyteP4z7m4MUVZzpb1K6peP1Yx3</td>
-	</tr>
-	<tr>
 		<td>Ripple XRP</td>
 		<td>rsZM5t2e9RiK8iq7BeFxSkUUvaupnAubLe<br>rhPVa7YdW8Tfhr2SNH9Rx6SDfV998TGUYd</td>
+	</tr>
+	<tr>
+		<td>Nix Platform</td>
+		<td>GanoNJbfZ41G1Tr1DjWAP51GTqGxxqcKPo</td>
+	</tr>
+	<tr>
+		<td>Telos TLOS</td>
+		<td>3r3333333333</td>
+	</tr>
+	<tr>
+		<td>Hive</td>
+		<td>x69</td>
 	</tr>
 </table>
 Thank you, if you contributed! 🖤
